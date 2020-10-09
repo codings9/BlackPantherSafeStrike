@@ -13,4 +13,4 @@ MunYa: https://youtu.be/3uMVzEXGmHA
 
 #Munya
 
-Munay Kali Linux
+Munya Kali Linux
